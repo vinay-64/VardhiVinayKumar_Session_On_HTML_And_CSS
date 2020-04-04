@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>EPAM TASK</title>
+    </head>
+    <body>
+        <div style="border: 1px solid black; width:30.5% ;padding-left: 300px ; padding-bottom: 10px ; background-color: #2EF0EF ">Sign up</div>
+        <br>
+            <form>
+                <input style="width: 50% ; padding-top: 10px ; padding-bottom: 10px;"  type="text" value="mail@example.com" name="email" ><br><br>
+                <input style="width: 50% ;padding-top: 10px ; padding-bottom: 10px;" type="text" value="password" name="password"><br><br>
+                <input style="width: 50% ;padding-top: 10px ; padding-bottom: 10px; background-color: #2EF0EF " type="button" value="SIGN IN" >
+
+            </form>
+            <p>Forget your password?--------------------------------------------------------------------------------------------------------Register</p><br>
+            <p>---------------------------------------------------------------------OR--------------------------------------------------------------------</p><br>
+            <input style="width: 50% ;padding-top: 10px ; padding-bottom: 10px; background-color: #2E64EF " type="button" value="f" ><br>
+            <input style="width: 50% ;padding-top: 10px ; padding-bottom: 10px; background-color: #EF592E " type="button" value="g" ><br>
+            <input style="width: 50% ;padding-top: 10px ; padding-bottom: 10px; background-color: #98F60D " type="button" value="< EPAM LOGIN >" >        
+        
+    </body>
+</html>
