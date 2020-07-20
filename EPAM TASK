@@ -12,8 +12,8 @@ and open the template in the editor.
         <div style="border: 1px solid black; width:30.5% ;padding-left: 300px ; padding-bottom: 10px ; background-color: #2EF0EF ">Sign up</div>
         <br>
             <form>
-                <input style="width: 50% ; padding-top: 10px ; padding-bottom: 10px;"  type="text" value="mail@example.com" name="email" ><br><br>
-                <input style="width: 50% ;padding-top: 10px ; padding-bottom: 10px;" type="text" value="password" name="password"><br><br>
+                <input style="width: 50% ; padding-top: 10px ; padding-bottom: 10px;"  type="text" placeholder="mail@example.com" name="email" ><br><br>
+                <input style="width: 50% ;padding-top: 10px ; padding-bottom: 10px;" type="text" placeholder="password" name="password"><br><br>
                 <input style="width: 50% ;padding-top: 10px ; padding-bottom: 10px; background-color: #2EF0EF " type="button" value="SIGN IN" >
 
             </form>
